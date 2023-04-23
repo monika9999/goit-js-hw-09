@@ -16,3 +16,19 @@ img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  background-color: #2196f3;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.timer {
+  display: flex;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
