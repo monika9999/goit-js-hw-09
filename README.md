@@ -1,2 +1,2 @@
-https://monika9999.github.io/goit-js-hw-09/
+https://github.com/monika9999/goit-js-hw-09"
 

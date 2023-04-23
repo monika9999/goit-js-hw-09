@@ -22,4 +22,3 @@ stopButton.addEventListener('click', () => {
   stopButton.disabled = true;
   clearInterval(changeColor);
 });
-
